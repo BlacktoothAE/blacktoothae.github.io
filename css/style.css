@@ -1,0 +1,15 @@
+body{font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(236, 236, 236);
+}
+.wrapper{
+    background-color: rgb(44, 204, 204);
+
+}
+form{
+    margin-top: 20px; 
+    display: flex;
+    justify-content: center;
+}
+.oup{
+    text-align: center;
+}
